@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Project_PartA_Sorokina_program.Necklace">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DBIAAAAAAAAAAAAEAAAAAQAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Necklace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_PartA_Sorokina_program.PreciousStone">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAKAAAAAAAAAAAAAAAAAAAIAGAAAAAAAAABAA=</HashCode>
+      <FileName>PreciousStone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAACEAAAAAQAAAAAAAAAAAABAAAgAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_PartA_Sorokina_program.SemiPreciousStone">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAKAAAAAAAAAAAAAAAAAAAAgGAAAAAAAAABAA=</HashCode>
+      <FileName>SemiPreciousStone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_PartA_Sorokina_program.Stone">
+    <Position X="5.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAKQAAAAAAAAAgAAQAAAAAAAGAAAAAgAAABAA=</HashCode>
+      <FileName>Stone.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Project_PartA_Sorokina_program.IGemstone">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAKAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAABAA=</HashCode>
+      <FileName>IGemstone.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
