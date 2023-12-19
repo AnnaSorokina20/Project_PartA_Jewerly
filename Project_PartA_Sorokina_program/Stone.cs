@@ -24,4 +24,8 @@ namespace Project_PartA_Sorokina_program
         public abstract string GetColor();
         public abstract string GetDetails();
     }
+
+
+
 }
+

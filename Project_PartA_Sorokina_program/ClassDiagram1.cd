@@ -3,7 +3,7 @@
   <Class Name="Project_PartA_Sorokina_program.Necklace">
     <Position X="3" Y="1.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>DBIAAAAAAAAAAAAEAAAAAQAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <HashCode>DBIAAAAAAAAAAAAECEAAAQAAAAAAAAAAAAABAAAAAAA=</HashCode>
       <FileName>Necklace.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -17,7 +17,7 @@
   <Class Name="Program">
     <Position X="1" Y="3.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAIAAAAAAAAAAAAACEAAAAAQAAAAAAAAAAAABAAAgAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -29,7 +29,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Project_PartA_Sorokina_program.Stone">
-    <Position X="5.5" Y="4.25" Width="1.5" />
+    <Position X="6.25" Y="4.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAKQAAAAAAAAAgAAQAAAAAAAGAAAAAgAAABAA=</HashCode>
       <FileName>Stone.cs</FileName>
@@ -43,5 +43,19 @@
       <FileName>IGemstone.cs</FileName>
     </TypeIdentifier>
   </Interface>
+  <Enum Name="PreciousGemstoneName">
+    <Position X="1.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAACAAAAAAAAAAAAgCAAAAAAAAAAAA=</HashCode>
+      <FileName>TypesOfStones.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SemiPreciousGemstoneName">
+    <Position X="3.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAGAAgIAAAQAAAAAAAAAAgAAAAAQAAAAAAAA=</HashCode>
+      <FileName>TypesOfStones.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ХАИ\\2 курс\\ООП\\Part A\\Project_PartA_Sorokina_program\\Project_PartA_Sorokina_program\\Project_PartA_Sorokina_program.csproj": {}
+    "D:\\ХАИ\\2 курс\\ООП\\Part A\\Project_partA_Sorokina_program\\Project_PartA_Sorokina_program\\Project_PartA_Sorokina_program.csproj": {}
   },
   "projects": {
-    "D:\\ХАИ\\2 курс\\ООП\\Part A\\Project_PartA_Sorokina_program\\Project_PartA_Sorokina_program\\Project_PartA_Sorokina_program.csproj": {
+    "D:\\ХАИ\\2 курс\\ООП\\Part A\\Project_partA_Sorokina_program\\Project_PartA_Sorokina_program\\Project_PartA_Sorokina_program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ХАИ\\2 курс\\ООП\\Part A\\Project_PartA_Sorokina_program\\Project_PartA_Sorokina_program\\Project_PartA_Sorokina_program.csproj",
+        "projectUniqueName": "D:\\ХАИ\\2 курс\\ООП\\Part A\\Project_partA_Sorokina_program\\Project_PartA_Sorokina_program\\Project_PartA_Sorokina_program.csproj",
         "projectName": "Project_PartA_Sorokina_program",
-        "projectPath": "D:\\ХАИ\\2 курс\\ООП\\Part A\\Project_PartA_Sorokina_program\\Project_PartA_Sorokina_program\\Project_PartA_Sorokina_program.csproj",
+        "projectPath": "D:\\ХАИ\\2 курс\\ООП\\Part A\\Project_partA_Sorokina_program\\Project_PartA_Sorokina_program\\Project_PartA_Sorokina_program.csproj",
         "packagesPath": "C:\\Users\\49151\\.nuget\\packages\\",
-        "outputPath": "D:\\ХАИ\\2 курс\\ООП\\Part A\\Project_PartA_Sorokina_program\\Project_PartA_Sorokina_program\\obj\\",
+        "outputPath": "D:\\ХАИ\\2 курс\\ООП\\Part A\\Project_partA_Sorokina_program\\Project_PartA_Sorokina_program\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio\\SDK\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net6.0-windows8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net6.0-windows8.0": {
+            "targetAlias": "net6.0-windows8.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net6.0-windows8.0": {
+          "targetAlias": "net6.0-windows8.0",
           "imports": [
             "net461",
             "net462",
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
